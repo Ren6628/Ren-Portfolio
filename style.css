@@ -66,7 +66,7 @@ header {
   z-index: -1;
   width: 100%;
   height: 600px;
-  background: url(../image/mockup-2443050_1920.jpg) center no-repeat;
+  background: url(https://github.com/Ren6628/Ren-Portfolio/blob/main/mockup-2443050_1920.jpg?raw=true) center no-repeat;
   background-size: cover;
 }
 
@@ -78,7 +78,7 @@ header {
 
 @media screen and (max-width: 480px) {
   .header-list:before {
-    background: url(../image/top-sp.jpg) center no-repeat;
+    background: url(https://github.com/Ren6628/Ren-Portfolio/blob/main/top-sp.jpg?raw=true) center no-repeat;
   }
 }
 
@@ -266,14 +266,14 @@ main h1 {
 }
 
 #intro {
-  background-image: url(/image/beach-394503_1920.jpg);
+  background-image: url(https://github.com/Ren6628/Ren-Portfolio/blob/main/beach-394503_1920.jpg?raw=true);
   background-size: cover;
   padding-bottom: 150px;
 }
 
 @media screen and (max-width: 680px) {
   #intro {
-    background-image: url(/image/intro-sp.jpg);
+    background-image: url(https://github.com/Ren6628/Ren-Portfolio/blob/main/intro-sp.jpg?raw=true);
   }
 }
 
@@ -325,7 +325,7 @@ main h1 {
 }
 
 #service {
-  background-image: url(/image/background-6556414_1920.jpg);
+  background-image: url(https://github.com/Ren6628/Ren-Portfolio/blob/main/background-6556414_1920.jpg?raw=true);
   padding-bottom: 30px;
 }
 
@@ -417,7 +417,7 @@ main h1 {
 }
 
 #works {
-  background-image: url(/image/chairs-2181951_1920.jpg);
+  background-image: url(https://github.com/Ren6628/Ren-Portfolio/blob/main/chairs-2181951_1920.jpg?raw=true);
   background-size: cover;
   height: 100%;
   padding-bottom: 100px;
@@ -593,7 +593,7 @@ footer p {
 }
 
 .footer-cont {
-  background-image: url(/image/background-6556414_1920.jpg);
+  background-image: url(https://github.com/Ren6628/Ren-Portfolio/blob/main/background-6556414_1920.jpg?raw=true);
 }
 
 .footer-list p {
