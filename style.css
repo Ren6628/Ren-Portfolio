@@ -421,8 +421,6 @@ main h1 {
   background-size: cover;
   height: 100%;
   @media screen and (max-width: 680px){
-    height: 1200px;
-    padding-bottom: 200px;
   }
   padding-bottom: 50px;
 }
@@ -513,7 +511,7 @@ figure, p {
 
 @media screen and (max-width: 680px) {
   .hover {
-    height: 60vw;
+    
   }
 }
 
