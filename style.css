@@ -428,6 +428,7 @@ main h1 {
 
 .works-list {
   padding-top: 20px;
+  height: 100%;
 }
 
 @media screen and (min-width: 680px) {
