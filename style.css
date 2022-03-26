@@ -417,17 +417,14 @@ main h1 {
 }
 
 #works {
-  background-image: url(https://github.com/Ren6628/Ren-Portfolio/blob/main/chairs-2181951_1920.jpg?raw=true);
+  background-image: url(/image/chairs-2181951_1920.jpg);
   background-size: cover;
   height: 100%;
-  @media screen and (max-width: 680px){
-  }
-  padding-bottom: 50px;
+  padding-bottom: 100px;
 }
 
 .works-list {
   padding-top: 20px;
-  height: 100%;
 }
 
 @media screen and (min-width: 680px) {
@@ -493,7 +490,7 @@ figure, p {
 
 @media screen and (max-width: 680px) {
   .image_box {
-    width: 60%;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
@@ -511,7 +508,7 @@ figure, p {
 
 @media screen and (max-width: 680px) {
   .hover {
-    
+    height: 60vw;
   }
 }
 
@@ -584,6 +581,7 @@ figure, p {
   background-color: #d3d0cf;
   border-radius: 30px;
 }
+
 
 footer h1 {
   text-align: center;
